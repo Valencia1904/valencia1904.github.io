@@ -21,19 +21,8 @@ Gestión y administración de sistemas:
 	* Cisco
 Normativa cableado estructurado.
 
-## **Experiencia Laboral.
-0
 
 ## **Curos**
 Clico superior: Administración de Sistemas Informaticos en Red (ASIR)
 Bachillerato.
-
-
-
-
-
-
-
-
-- qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 
