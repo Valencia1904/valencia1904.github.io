@@ -11,9 +11,9 @@ Técnico Superior Administración de Sistemas Informáticos en Red. Curso 2017.
 
 ## **Formación Técnica**
 Administración de  bases de datos:
-	* Oracle
-	* MariaDb
-	* Postgresql
+* Oracle
+* MariaDb
+* Postgresql
 Programación Python.
 Gestión y administración de sistemas:
 	* Linux
