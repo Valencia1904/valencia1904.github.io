@@ -8,7 +8,7 @@ tagline: Valencia1904.github.io
 # Curriculum
 Técnico Superior Administración de Sistemas Informáticos en Red. Curso 2017.
 
-[Imagen de Bugbunny](/images/bugs-bunny-en-sus-primeros-ac3b1os.jpg)
+![Imagen de Bugbunny](/images/bugs-bunny-en-sus-primeros-ac3b1os.jpg)
 
 ### Formación Técnica
 Administración de  bases de datos:  
