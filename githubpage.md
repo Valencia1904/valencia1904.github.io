@@ -9,6 +9,23 @@ tagline: Valencia1904.github.io
 
 Vamos a ver los pasos necesarios para crear una página estática con GitHubPage.
 
+### Crear un repositorio
 Primero nos crearemos un repositorio GitHub con nuestro nombre de usuario GitHub.
 
-![Imagen de Bugbunny]()
+![captura 1]()
+
+### Añadir estilo
+
+En settings buscamos el apartado de GitHub Pages.
+
+Le damos a "Launch automatic page generator" 
+
+![captura 2]()
+
+![Captura 3]()
+
+Selecciona el estilo de tu gusto.
+
+![Captura 4]()
+
+
