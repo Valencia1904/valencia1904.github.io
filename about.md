@@ -25,6 +25,12 @@ Gestión y administración de sistemas:
   
 Normativa cableado estructurado.  
 
+### Experiencia laboral
+Ninguna
+
+### Idiomas
+Español: Nativo
+Ingles: B1
 
 ### Cursos
 Clico superior: Administración de Sistemas Informaticos en Red (ASIR)
