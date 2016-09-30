@@ -1,11 +1,11 @@
 ---
 layout: index
 
-title: Curriculum	
+title: Alejandro Valencia Valles	
 tagline: Valencia1904.github.io
 ---
 
-# Alejandro Valencia Valles
+# Curriculum
 Técnico Superior Administración de Sistemas Informáticos en Red. Curso 2017.
 
 
