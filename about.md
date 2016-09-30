@@ -22,7 +22,7 @@ Gestión y administración de sistemas:
 Normativa cableado estructurado.
 
 
-## **Curos**
+## **Cursos**
 Clico superior: Administración de Sistemas Informaticos en Red (ASIR)
 Bachillerato.
 
