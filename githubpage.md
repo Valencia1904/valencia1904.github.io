@@ -109,9 +109,9 @@ Al principio sería algo así.
  </html>
 
 ```
-Tendriamos que añadir la etiqueta "content" donde ira el contenido de la pagina index.md con formato Markdown.
+Tendriamos que añadir la etiqueta ``content`` donde ira el contenido de la pagina index.md con formato Markdown.
 
-Podriamos tambien añadir mas etiquetas en mi caso "page.tittle" lo añadimos tambien.
+Podriamos tambien añadir mas etiquetas en mi caso ''page.tittle'' lo añadimos tambien.
 
 Veamos como quedaria nuestro index.html.
 
