@@ -12,7 +12,7 @@ Vamos a ver los pasos necesarios para crear una página estática con GitHubPage
 ### Crear un repositorio
 Primero nos crearemos un repositorio GitHub con nuestro nombre de usuario GitHub.
 
-![captura 1](images/githubpage/1)
+![captura 1](images/githubpage/1.png)
 
 ### Añadir estilo
 
