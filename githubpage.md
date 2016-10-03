@@ -109,9 +109,11 @@ Al principio sería algo así.
  </html>
 
 ```
-Tendriamos que añadir la etiqueta ``content`` donde ira el contenido de la pagina index.md con formato Markdown.
+Tendriamos que añadir la etiqueta ``{content}`` donde ira el contenido de la pagina index.md con formato Markdown.
 
-Podriamos tambien añadir mas etiquetas en mi caso ``page.tittle`` lo añadimos tambien.
+Podriamos tambien añadir mas etiquetas en mi caso ``{page.tittle}`` lo añadimos tambien.
+
+**Las etiquetas serian con doble llave {{ abrir y doble llave cerrar }} pero para que Marcdown no haga cosas estrañas lo tengo que poner con una sola llave.**
 
 Veamos como quedaria nuestro index.html.
 
@@ -121,7 +123,7 @@ Veamos como quedaria nuestro index.html.
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
-    <title> **page.tittle** </title>
+    <title> {page.tittle} </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
@@ -130,7 +132,7 @@ Veamos como quedaria nuestro index.html.
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name"> **page.title** </h1>
+      <h1 class="project-name"> {page.title} </h1>
       <h2 class="project-tagline"></h2>
     </section>
 
