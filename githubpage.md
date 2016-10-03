@@ -52,8 +52,6 @@ Y lo modificamos.
 
 Al principio sería algo así.
 
-[Index.html](datos/old.index.txt)
-
 ```
 
 <!DOCTYPE html>
@@ -111,3 +109,38 @@ Al principio sería algo así.
  </html>
 
 ```
+Tendriamos que añadir la etiqueta "{{content}}" donde ira el contenido de la pagina index.md con formato Markdown.
+
+Podriamos tambien añadir mas etiquetas en mi caso "{{page.tittle}}" lo añadimos tambien.
+
+Veamos como quedaria nuestro index.html.
+
+```
+
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{page.tittle}}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">{{page.title}}</h1>
+      <h2 class="project-tagline"></h2>
+    </section>
+
+    <section class="main-content">
+     {{content}}
+    </section>
+
+  
+  </body>
+</html>
+
+```
+
