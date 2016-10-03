@@ -130,12 +130,12 @@ Veamos como quedaria nuestro index.html.
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">{ {page.title} }</h1>
+      <h1 class="project-name">{page.title}</h1>
       <h2 class="project-tagline"></h2>
     </section>
 
     <section class="main-content">
-     { {content} }
+     {content}
     </section>
 
   
