@@ -51,4 +51,3 @@ Y lo modificamos.
 
 Al principio sería algo así.
 
-[index.html](datos/old.index.txt)
