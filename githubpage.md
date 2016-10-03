@@ -113,7 +113,7 @@ Tendriamos que añadir la etiqueta ``{content}`` donde ira el contenido de la pa
 
 Podriamos tambien añadir mas etiquetas en mi caso ``{page.tittle}`` lo añadimos tambien.
 
-**Las etiquetas serian con doble llave {{ abrir y doble llave cerrar }} pero para que Marcdown no haga cosas estrañas lo tengo que poner con una sola llave.**
+**Las etiquetas serian con doble llave {{ abrir y doble llave cerrar }} pero para que Markdown no haga cosas estrañas lo tengo que poner con una sola llave.**
 
 Veamos como quedaria nuestro index.html.
 
