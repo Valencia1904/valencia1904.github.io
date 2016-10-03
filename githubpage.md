@@ -135,7 +135,9 @@ Veamos como quedaria nuestro index.html.
     </section>
 
     <section class="main-content">
-     **content**
+
+     {content}
+
     </section>
 
   
