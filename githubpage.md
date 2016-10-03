@@ -12,7 +12,7 @@ Vamos a ver los pasos necesarios para crear una página estática con GitHubPage
 ### Crear un repositorio
 Primero nos crearemos un repositorio GitHub con nuestro nombre de usuario GitHub.
 
-![captura 1]()
+![captura 1](images/githubpage/1)
 
 ### Añadir estilo
 
@@ -20,19 +20,19 @@ En settings buscamos el apartado de GitHub Pages.
 
 Le damos a "Launch automatic page generator" 
 
-![captura 2]()
+![captura 2](images/githubpage/2.png)
 
-![Captura 3]()
+![Captura 3](images/githubpage/3.png)
 
 Selecciona el estilo de tu gusto.
 
-![Captura 4]()
+![Captura 4](images/githubpage/4.png)
 
 Veremos el repositio con el siguiente contenido:
 Los elementos necesarios para la hoja de estilo.
 y un index.html de ejemplo.
 
-![Captura 5]()
+![Captura 5](images/githubpage/5.png)
 
 Clonaremos nuestro repositorio en nuestra maquina.
 
@@ -40,7 +40,7 @@ Clonaremos nuestro repositorio en nuestra maquina.
 
 En vuestro caso devereis copiar vuestra direccion git del repositorio.
 
-![captura 6]()
+![captura 6](images/githubpage/6.png)
 
 Nos creamos la carpeta _layouts.
 
@@ -111,7 +111,7 @@ Al principio sería algo así.
 ```
 Tendriamos que añadir la etiqueta ``content`` donde ira el contenido de la pagina index.md con formato Markdown.
 
-Podriamos tambien añadir mas etiquetas en mi caso {{page.tittle}} lo añadimos tambien.
+Podriamos tambien añadir mas etiquetas en mi caso ``page.tittle`` lo añadimos tambien.
 
 Veamos como quedaria nuestro index.html.
 
