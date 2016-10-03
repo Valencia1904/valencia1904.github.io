@@ -31,6 +31,7 @@ Selecciona el estilo de tu gusto.
 Veremos el repositio con el siguiente contenido:
 Los elementos necesarios para la hoja de estilo.
 y un index.html de ejemplo.
+
 ![Captura 5]()
 
 Clonaremos nuestro repositorio en nuestra maquina.
