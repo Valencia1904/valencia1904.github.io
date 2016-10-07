@@ -247,3 +247,27 @@ Los guiones y asteriscos listan
 Estructura:
 
 ```
+.
+├── about.md
+├── datos
+│   └── index.txt
+├── githubpage.md
+├── images
+│   ├── bugs-bunny-en-sus-primeros-ac3b1os.jpg
+│   └── githubpage
+│       ├── 1.png
+│       ├── 2.png
+│       ├── 3.png
+│       ├── 4.png
+│       ├── 5.png
+│       └── 6.png
+├── index.md
+├── _layouts
+│   ├── index.html
+│   └── old.index.html
+├── params.json
+└── stylesheets
+    ├── github-light.css
+    ├── normalize.css
+    └── stylesheet.css
+```
