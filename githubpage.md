@@ -149,14 +149,13 @@ Veamos como quedaria nuestro index.html.
 </html>
 
 ```
-#### Creación de ficheros .md
+### Creación de ficheros .md
 
 En el directorio raiz creamos el fichero index.md sera la página de inicio de nuestra página.
 
 Veamos el contenido de mi fichero index.md.
 
 ```
-
 ---
 layout: index
 
@@ -172,4 +171,63 @@ tagline: Valencia1904.github.io
 [Creando una pagina en GitHubPage](githubpage)
 
 ```
+
+Expliquemoslo:
+
+`` ![Imagen de Bugbunny](images/bugs-bunny-en-sus-primeros-ac3b1os.jpg) ``
+
+Esto es la imagen de nuestro amigo Bugs Bunny. *Imagen de Bugbunny* es el nombre del elemento, *images/bugs-bunny-en-sus-primeros-ac3b1os.jpg* esta es la dirección de la imagen dentro de nuestro repositorio.
+
+Como sabremos que es una imagen en vez de un enlace por la exclamación del principio.
+
+``  [Curriculum](about) ``
+
+En este caso es un enlace a otra página de nuestro repositorio. *Curriculum* es el nombre del elemento que se mostrara en nuestra pagina web. *about* es la direccion de el fichero Marckdown no necesitamos poner la extensión .md porque el asume que es .md.
+
+No ponemos ninguna dirección del estilo */ficherosmd/about.md* porque esta en el directorio raiz.
+
+### Fichero about.md
+
+Veamos este fichero.
+
+```
+
+
+---
+layout: index
+
+title: Alejandro Valencia Valles	
+tagline: Valencia1904.github.io
+---
+
+# Curriculum
+Técnico Superior Administración de Sistemas Informáticos en Red. Curso 2017.
+
+
+### Formación Técnica
+Administración de  bases de datos:  
+
+* Oracle  
+* MariaDb  
+* Postgresql  
+
+Programación Python.  
+Gestión y administración de sistemas:  
+
+- Linux  
+- Windows server  
+- Cisco
+  
+Normativa cableado estructurado.  
+
+### Experiencia laboral
+Ninguna
+
+### Idiomas
+Español: Nativo
+Ingles: B1
+
+### Cursos
+Clico superior: Administración de Sistemas Informaticos en Red (ASIR)
+Bachillerato.
 
