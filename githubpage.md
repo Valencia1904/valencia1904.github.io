@@ -172,7 +172,14 @@ tagline: Valencia1904.github.io
 
 ```
 
-Expliquemoslo:
+Veamoslo:
+
+La etiqueta `` layout: index `` no muestra sobre que fichero de la carpeta _layouts se construira este contenido.
+
+La etiqueta `` title: Alejandro Valencia Valles `` sustituira la etiqueta title de nuestro .html por lo escrito en esta etiqueta.
+
+La etiqueta `` tagline: Valencia1904.github.io `` sustituira la etiqueta tagline de nuestro .html por lo escrito en esta etiqueta.
+
 
 `` ![Imagen de Bugbunny](images/bugs-bunny-en-sus-primeros-ac3b1os.jpg) ``
 
@@ -191,8 +198,6 @@ No ponemos ninguna dirección del estilo */ficherosmd/about.md* porque esta en e
 Veamos este fichero.
 
 ```
-
-
 ---
 layout: index
 
@@ -231,3 +236,14 @@ Ingles: B1
 Clico superior: Administración de Sistemas Informaticos en Red (ASIR)
 Bachillerato.
 
+```
+
+Podemos ver distintos elementos de marcación en este fichero.
+
+La triple almohadilla es elementos h3.
+
+Los guiones y asteriscos listan
+
+Estructura:
+
+```
