@@ -42,6 +42,8 @@ En vuestro caso devereis copiar vuestra direccion git del repositorio.
 
 ![captura 6](images/githubpage/6.png)
 
+#### Creación de estructura.
+
 Nos creamos la carpeta _layouts.
 
 Movemos el fichero index.html a la carpeta _layouts.
@@ -145,6 +147,29 @@ Veamos como quedaria nuestro index.html.
   
   </body>
 </html>
+
+```
+#### Creación de ficheros .md
+
+En el directorio raiz creamos el fichero index.md sera la página de inicio de nuestra página.
+
+Veamos el contenido de mi fichero index.md.
+
+```
+
+---
+layout: index
+
+title: Alejandro Valencia Valles	
+tagline: Valencia1904.github.io
+---
+# Bienvenidos
+
+![Imagen de Bugbunny](images/bugs-bunny-en-sus-primeros-ac3b1os.jpg)
+
+[Curriculum](about)
+
+[Creando una pagina en GitHubPage](githubpage)
 
 ```
 
